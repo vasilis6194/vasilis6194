@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/vasilis6194/vasilis6194/refs/heads/main/giphy.webp?token=GHSAT0AAAAAAC2JV4GCBCP4AAVTCGZ4MTSGZZ2DIGQ" width="1000">
 </p>
 
-
 👋 Hello! I’m **Vasilis Katsikas**, an **Aspiring Data Scientist** transitioning from a career in **logistics** and **procurement management** to the dynamic field of **data science**. I am currently developing cutting-edge skills in programming, data analysis, and visualization to build a new path in technology.
 
 ---
@@ -22,6 +21,18 @@
   - **Python Libraries**: Pandas, NumPy, Matplotlib (currently learning more)
   - Proficient in **SQL** and **Tableau** for database querying and visualization.  
   - Advanced proficiency in **Microsoft Excel** for data analysis.
+
+---
+
+## 🎓 **Current Focus**
+🎓 Enrolled in **Big Blue Data Academy** – A full-fledged **Data Science Bootcamp** to transition my career to the tech industry.  
+
+I am learning and building projects in:  
+- **Data Cleaning & Preprocessing**  
+- **Exploratory Data Analysis (EDA)**  
+- **Machine Learning Basics**  
+- **Data Visualization**  
+
 ---
 
 ## 📜 **Certifications**
@@ -49,17 +60,6 @@ Here are some of the certifications I’ve earned to strengthen my skills:
   Simulated efficient inventory distribution models inspired by military operations.  
 - **📘 [Interactive Data Dashboard](https://github.com/vasilis6194/data-dashboard)**  
   Built a dashboard using **Matplotlib**, **Tableau**, and **Seaborn** to visualize key insights.
-
----
-
-## 🎓 **Current Focus**
-🎓 Enrolled in **Big Blue Data Academy** – A full-fledged **Data Science Bootcamp** to transition my career to the tech industry.  
-
-I am learning and building projects in:  
-- **Data Cleaning & Preprocessing**  
-- **Exploratory Data Analysis (EDA)**  
-- **Machine Learning Basics**  
-- **Data Visualization**  
 
 ---
 

@@ -1,6 +1,9 @@
 # 🌟 Vasilis Katsikas | Aspiring Data Scientist 🌟
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vasilis6194/vasilis6194/refs/heads/main/giphy.webp?token=GHSAT0AAAAAAC2JV4GCBCP4AAVTCGZ4MTSGZZ2DIGQ" width="1000">
+</p>
+
 
 👋 Hello! I’m **Vasilis Katsikas**, an **Aspiring Data Scientist** transitioning from a career in **logistics** and **procurement management** to the dynamic field of **data science**. I am currently developing cutting-edge skills in programming, data analysis, and visualization to build a new path in technology.
 

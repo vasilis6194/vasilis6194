@@ -14,12 +14,12 @@
   ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![SQL Badge](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  ![PowerBI Badge](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 - **Data Analytics & Visualization**    
-  - **Python Libraries**: Pandas, NumPy, Matplotlib (currently learning more)
-  - Proficient in **SQL** and **Tableau** for database querying and visualization.  
+  - **Python Libraries**: Pandas, NumPy, Matplotlib, Plotly, Folium, BeautifulSoup, Streamlit ...
+  - Proficient in **SQL** and **PowerBI** for database querying and visualization.  
   - Advanced proficiency in **Microsoft Excel** for data analysis.
 
 ---
@@ -48,18 +48,10 @@ Here are some of the certifications I’ve earned to strengthen my skills:
   ![Workearly Icon](https://img.shields.io/badge/Workearly-Greece-blue?style=flat)  
 - 🎓 **Python Badge** *(Big Blue Data Academy)*  
   ![Python Badge](https://img.shields.io/badge/Big%20Blue%20Data%20Academy-3776AB?style=flat&logo=python&logoColor=white)  
-- 🎓 **Data Analysis in Python: Using Pandas DataFrames** *(Coursera)*  
-  ![Coursera Icon](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
-
----
-
-## 🏆 **Featured Projects**
-- **📊 [Sales Data Analysis](https://github.com/vasilis6194/sales-data-analysis)**  
-  Analyzed sales trends and customer behaviors using **Python** and **Pandas**.  
-- **📈 [Logistics Optimization](https://github.com/vasilis6194/logistics-optimization)**  
-  Simulated efficient inventory distribution models inspired by military operations.  
-- **📘 [Interactive Data Dashboard](https://github.com/vasilis6194/data-dashboard)**  
-  Built a dashboard using **Matplotlib**, **Tableau**, and **Seaborn** to visualize key insights.
+- 🎓 **SQL Credential** *(Big Blue Data Academy)*  
+  ![SQL Badge](https://img.shields.io/badge/Big%20Blue%20Data%20Academy-SQL-336791?style=flat&logoColor=white)  
+- 🎓 **EDA Credential** *(Big Blue Data Academy)*  
+  ![EDA Badge](https://img.shields.io/badge/Big%20Blue%20Data%20Academy-EDA-150458?style=flat&logoColor=white)
 
 ---
 
@@ -67,15 +59,15 @@ Here are some of the certifications I’ve earned to strengthen my skills:
 While my current focus is on **data science**, my background in the **Greek Army Ordnance Corps** provides me with a unique perspective in logistics, procurement, and team leadership:  
 
 - **📜 Procurement Specialist**  
-  - Managed contracts exceeding **€20M annually**, ensuring compliance and transparency.
+  - Managed contracts exceeding **€20M annually**, ensuring compliance and transparency.  
   - Verified and processed 200+ documents monthly using the Greek **Electronic Public Procurement System (ESIDIS)**.  
 
 - **📦 Logistics Manager**  
-  - Oversaw inventory valued at **€5M**, achieving near-perfect accuracy.
-  - Streamlined supply chain operations, enhancing efficiency and morale.
+  - Oversaw inventory valued at **€5M**, achieving near-perfect accuracy.  
+  - Streamlined supply chain operations, enhancing efficiency and morale.  
 
 - **🪖 Leadership & Training**  
-  - Trained and mentored over 40 reserve officers, achieving **100% compliance** with training goals.
+  - Trained and mentored over 40 reserve officers, achieving **100% compliance** with training goals.  
   - Designed and implemented team training programs with logistical precision.
 
 ---

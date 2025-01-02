@@ -82,10 +82,12 @@ I thrive under pressure and enjoy solving complex logistical puzzles—both on t
 
 ---
 
-## 🤝 **Let’s Connect**
-- 📧 **Email**: vasilis6194@gmail.com  
+## 🤝 **Let’s Connect**  
+- 📧 **Email**: [vasilis6194@gmail.com](mailto:vasilis6194@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/vasiliskatsikas](https://www.linkedin.com/in/vasiliskatsikas/)  
-- 🖥️ **GitHub**: [github.com/vasilis6194](https://github.com/vasilis6194)
+- 🖥️ **GitHub**: [github.com/vasilis6194](https://github.com/vasilis6194)  
+- 🌐 **Portfolio**: [vkatsikas.com](https://vkatsikas.com)  
+
 
 ---
 

@@ -1,4 +1,4 @@
-# 🌟 Vasilis Katsikas | Aspiring Data Scientist 🌟
+# 🌟 Vasilis Katsikas | Data Scientist 🌟
 
 <p align="center">
   <img src="https://github.com/vasilis6194/vasilis6194/blob/main/giphy.webp" width="500">

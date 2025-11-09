@@ -48,6 +48,8 @@ Big Blue Data Academy
   ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
   ![SQL Badge](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Looker Badge](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+  ![GCP Badge](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![PowerBI Badge](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![BeautifulSoup Badge](https://img.shields.io/badge/BeautifulSoup-2A5C7C?style=for-the-badge&logo=python&logoColor=white)

@@ -55,12 +55,6 @@ Big Blue Data Academy
   ![BeautifulSoup Badge](https://img.shields.io/badge/BeautifulSoup-2A5C7C?style=for-the-badge&logo=python&logoColor=white)
   ![PyFIM Badge](https://img.shields.io/badge/PyFIM-000000?style=for-the-badge&logo=python&logoColor=white)
 
-
-- **Data Analytics & Visualization**    
-  - **Python Libraries**: Pandas, NumPy, Matplotlib, Plotly, Folium, BeautifulSoup, Streamlit ...
-  - Proficient in **SQL** and **PowerBI** for database querying and visualization.  
-  - Advanced proficiency in **Microsoft Excel** for data analysis.
-
 ---
 
 

@@ -4,7 +4,41 @@
   <img src="https://github.com/vasilis6194/vasilis6194/blob/main/giphy.webp" width="500">
 </p>
 
-👋 Hello! I’m **Vasilis Katsikas**, an **Aspiring Data Scientist** transitioning from a career in **logistics** and **procurement management** to the dynamic field of **data science**. I am currently developing cutting-edge skills in programming, data analysis, and visualization to build a new path in technology.
+👋 Hello! I’m **Vasilis Katsikas**, a **Data Scientist** passionate about combining data, AI, and marketing technology to drive measurable business impact in the hospitality and tourism industry.
+
+Currently, I work at **rapidbounce**, a leading digital transformation agency based in **Athens, Greece**, where I build AI-powered analytics, predictive models, and automated dashboards that support hotels and brands in their digital transformation journey.
+
+---
+## 🚀 **What I Do**
+
+💡 **Data Science & Machine Learning**
+- Build predictive models in **Python (Pandas, NumPy, Scikit-learn)** for revenue optimization and demand forecasting.  
+- Experiment with **AI, NLP, and generative models** to automate insights and content creation.  
+- Deploy data pipelines and analytics workflows on **Google Cloud Platform (BigQuery, Cloud Run, Vertex AI)**.  
+
+📊 **Analytics & Business Intelligence**
+- Develop and automate **Looker Studio** dashboards for ADR, bookings, revenue, and marketing performance.  
+- Integrate data across platforms like **GA4, Google Ads, Meta Business Suite, and TikTok Ads Manager**.  
+- Enable data-driven decision-making through clear, actionable insights and visual storytelling.  
+
+---
+
+## 🎓 **Education & Learning**
+
+🎓 **M.Sc. in Data Science & Machine Learning** *(in progress)*  
+Hellenic Open University  
+
+🎓 **Data Science Bootcamp Graduate**  
+Big Blue Data Academy  
+
+---
+
+## 🧠 **Core Interests**
+- Applied Machine Learning  
+- Generative AI & LLMs  
+- Data Visualization & Business Intelligence  
+- Marketing Analytics & Yield Management  
+- Cloud-Based AI Solutions  
 
 ---
 
@@ -27,60 +61,6 @@
 
 ---
 
-## 🎓 **Current Focus**
-🎓 Enrolled in **Big Blue Data Academy** – A full-fledged **Data Science Bootcamp** to transition my career to the tech industry.  
-
-I am learning and building projects in:  
-- **Data Cleaning & Preprocessing**  
-- **Exploratory Data Analysis (EDA)**  
-- **Machine Learning Basics**  
-- **Data Visualization**  
-
----
-
-## 📜 **Certifications**
-Here are some of the certifications I’ve earned to strengthen my skills:
-
-- 🎓 **Introduction to Programming** *(Nanodegree - Udacity)*  
-  ![Udacity Icon](https://img.shields.io/badge/Udacity-02B3E4?style=flat&logo=udacity&logoColor=white)  
-- 🎓 **Introduction to Data Analysis using Microsoft Excel** *(Coursera)*  
-  ![Coursera Icon](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)  
-- 🎓 **Business Analytics with Excel: Elementary to Advanced** *(Johns Hopkins University via Coursera)*  
-  ![Johns Hopkins Icon](https://img.shields.io/badge/Johns%20Hopkins%20University-002D62?style=flat&logoColor=white)  
-- 🎓 **Data Science Summer School** *(Workearly Greece)*  
-  ![Workearly Icon](https://img.shields.io/badge/Workearly-Greece-blue?style=flat)  
-- 🎓 **Python Badge** *(Big Blue Data Academy)*  
-  ![Python Badge](https://img.shields.io/badge/Big%20Blue%20Data%20Academy-3776AB?style=flat&logo=python&logoColor=white)  
-- 🎓 **SQL Credential** *(Big Blue Data Academy)*  
-  ![SQL Badge](https://img.shields.io/badge/Big%20Blue%20Data%20Academy-SQL-336791?style=flat&logoColor=white)  
-- 🎓 **EDA Credential** *(Big Blue Data Academy)*  
-  ![EDA Badge](https://img.shields.io/badge/Big%20Blue%20Data%20Academy-EDA-150458?style=flat&logoColor=white)
-
----
-
-## 🎯 **Previous Experience**
-While my current focus is on **data science**, my background in the **Greek Army Ordnance Corps** provides me with a unique perspective in logistics, procurement, and team leadership:  
-
-- **📜 Procurement Specialist**  
-  - Managed contracts exceeding **€20M annually**, ensuring compliance and transparency.  
-  - Verified and processed 200+ documents monthly using the Greek **Electronic Public Procurement System (ESIDIS)**.  
-
-- **📦 Logistics Manager**  
-  - Oversaw inventory valued at **€5M**, achieving near-perfect accuracy.  
-  - Streamlined supply chain operations, enhancing efficiency and morale.  
-
-- **🪖 Leadership & Training**  
-  - Trained and mentored over 40 reserve officers, achieving **100% compliance** with training goals.  
-  - Designed and implemented team training programs with logistical precision.
-
----
-
-## 🎉 **Fun Fact**
-I thrive under pressure and enjoy solving complex logistical puzzles—both on the battlefield and in the data world!  
-
-![Coding GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
----
 
 ## 🤝 **Let’s Connect**  
 - 📧 **Email**: [vasilis6194@gmail.com](mailto:vasilis6194@gmail.com)  
